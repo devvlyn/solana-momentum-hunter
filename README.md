@@ -36,6 +36,6 @@ The application handles high-frequency event streaming without blocking executio
 Clone the repository and install the dependencies:
 
 ```bash
-git clone [https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git](https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git)
-cd YOUR_REPOSITORY_NAME
+git clone [https://github.com/devvlyn/solana-momentum-hunter.git](https://github.com/devvlyn/solana-momentum-hunter.git
+cd solana-momentum-hunter
 pip install websockets requests python-dotenv
